@@ -16,3 +16,6 @@ profile
 
 ## Ignore incredibly annoying .DS_Store files
 .DS_Store
+
+/UniversalDetector.xcodeproj/xcuserdata/NILTSH.xcuserdatad/xcschemes/DetectorTest.xcscheme
+/UniversalDetector.xcodeproj/xcuserdata/NILTSH.xcuserdatad/xcschemes/UniversalDetector.xcscheme
